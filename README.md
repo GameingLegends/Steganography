@@ -55,12 +55,14 @@ When you run the tool, it will guide you through the following options:
 
 ```bash
 .
-├── main.py
-├── sample.txt
-├── cover_image.jpg
-├── stego_image.png
-├── README.md
-```
+📁 Steganography-Hide-Info/
+├── 📁 code/
+│   └── main.py                # Python encryption/decryption code
+├── 📁 data/
+│   ├── sample.txt             # Sample secret message
+│   ├── cover.jpg              # Original clean image
+│   └── stego_image.png        # Image with hidden encrypted text
+└── README.md
 
 ---
 
